@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **www.twitter.com/devbidden**
 
-- ⚡ Fun fact **I**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/devbidden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devbidden" height="30" width="40" /></a>
